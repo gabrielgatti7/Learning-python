@@ -1,0 +1,11 @@
+name = "gabriel Gatti"
+print(len(name))
+print(name.find(("G")))
+print(name.capitalize())
+print(name.upper())
+print(name.lower())
+print(name.isdigit())
+print(name.isalpha())
+print(name.count("t"))
+# print(name.replace("t", "d", 1))
+print(name*3)
